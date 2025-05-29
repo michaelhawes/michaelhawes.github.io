@@ -23,9 +23,9 @@ repository               : "michaelhawes/michaelhawes.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Michael B. Hawes"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Experienced senior leader, statistician, and privacy professional with expertise in federal privacy and confidentiality laws and statistical disclosure limitation (de-identification)."
   location         : "Washington, DC"
   employer         : "U.S. Census Bureau"
   uri              : # URL
