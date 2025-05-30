@@ -2,7 +2,7 @@
 title: "Confidentiality Protection in the 2020 US Census of Population and Housing"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-confid.md
+permalink: /publication/2022-confid
 excerpt: ' '
 date: 2022-11-29
 venue: 'Annual Review of Statistics and its Application'
