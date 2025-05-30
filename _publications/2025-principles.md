@@ -7,7 +7,7 @@ excerpt: 'Characteristics of an ideal, applied disclosure avoidance system.'
 date: 2025-02-19
 venue: 'Harvard Data Science Review'
 paperurl: 'https://doi.org/10.1162/99608f92.db29c137'
-bibtexurl: 'https://michaelhawes.github.io/files/2025-principles.bib'
+bibtexurl: 'https://michaelhawes.github.io/files/bib/2025-principles.bib'
 citation: 'Hawes, M. B., Brassell, E. M., Caruso, A., Cumings-Menon, R., Devine, J., Dorius, C., Evans, D., Haase, K., Hedrick, M. C., Holan, S. H., Hollingsworth, C. D., Jensen, E. B., Kifer, D., Krause, A., Leclerc, P., Livsey, J., Rodríguez, R. A., Rogers, L. T., Spence, M., … Keller, S. A. (2025). Toward a Principled Framework for Disclosure Avoidance. Harvard Data Science Review. https://doi.org/10.1162/99608f92.db29c137'
 ---
 
