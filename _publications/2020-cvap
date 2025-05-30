@@ -1,0 +1,12 @@
+---
+title: "Determination of the 2020 U.S. Citizen Voting Age Population (CVAP) Using Administrative Records and Statistical Methodology Technical Report"
+collection: publications
+category: technical
+permalink: /publication/2020-cvap
+date: 2020-10-01
+venue: 'U.S. Census Bureau'
+paperurl: 'https://www.census.gov/library/working-papers/2020/adrm/CES-WP-20-33.html'
+bibtexurl: 'https://michaelhawes.github.io/files/bib/2020-cvap.bib'
+citation: 'Abowd, J. M., Bell, W. R., Brown, J. D., Hawes, M. B., Heggeness, M. L., Keller, A. D., Mule Jr., V. T., Schafer, J. L., Spence, M., Warren, L., & Yi, M. (2020). Determination of the 2020 U.S. Citizen Voting Age Population (CVAP) Using Administrative Records and Statistical Methodology Technical Report. Working Paper  CES-20-33, U.S. Census Bureau. https://www.census.gov/library/working-papers/2020/adrm/CES-WP-20-33.html'
+---
+This report documents the efforts of the Census Bureau’s Citizen Voting-Age Population (CVAP) Internal Expert Panel (IEP) and Technical Working Group (TWG) toward the use of multiple data sources to produce block-level statistics on the citizen voting-age population for use in enforcing the Voting Rights Act. It describes the administrative, survey, and census data sources used, and the four approaches developed for combining these data to produce CVAP estimates. It also discusses other aspects of the estimation process, including how records were linked across the multiple data sources, and the measures taken to protect the confidentiality of the data.
