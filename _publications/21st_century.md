@@ -2,7 +2,7 @@
 title: "21st century statistical disclosure limitation: motivations and challenges"
 collection: publications
 category: chapters
-permalink: /publication/21st_century.md
+permalink: /publication/21st_century
 excerpt: ''
 date: 2024-01-01
 venue: 'Handbook of Sharing Confidential Data: Differential Privacy, Secure
