@@ -1,0 +1,15 @@
+---
+title: "Toward a Principled Framework for Disclosure Avoidance"
+collection: publications
+category: manuscripts
+permalink: /publication/2025-principles
+excerpt: 'Characteristics of an ideal, applied disclosure avoidance system.'
+date: 2025-02-19
+venue: 'Harvard Data Science Review'
+slidesurl: ''
+paperurl: 'https://doi.org/10.1162/99608f92.db29c137'
+bibtexurl: ''
+citation: 'Hawes, M. B., Brassell, E. M., Caruso, A., Cumings-Menon, R., Devine, J., Dorius, C., Evans, D., Haase, K., Hedrick, M. C., Holan, S. H., Hollingsworth, C. D., Jensen, E. B., Kifer, D., Krause, A., Leclerc, P., Livsey, J., Rodríguez, R. A., Rogers, L. T., Spence, M., … Keller, S. A. (2025). Toward a Principled Framework for Disclosure Avoidance. Harvard Data Science Review. https://doi.org/10.1162/99608f92.db29c137'
+---
+
+Responsible disclosure limitation is an iterative exercise in risk assessment and mitigation. From time to time, as disclosure risks grow and evolve and as data users’ needs change, agencies must consider redesigning the disclosure avoidance system(s) they use. Discussions about candidate systems, however, often conflate inherent features of those systems with implementation decisions that are independent of the systems themselves. For example, a disclosure avoidance system’s ability to calibrate the strength of protection to suit the underlying sensitivity or disclosure risk of the data (e.g., by varying cell suppression thresholds) is a worthwhile feature of that system regardless of the independent decision about how much protection is actually necessary. Having a principled discussion and assessment of candidate disclosure avoidance systems, therefore, requires a framework for distinguishing and evaluating these inherent features of the systems from the implementation decisions that need to be made independent of the system selected. In the context of statistical agencies, this framework must also reflect the applied nature of these systems within the operational realities and production cycles of the organization. As such, the framework should acknowledge that candidate systems need to be adaptable to requirements stemming from the legal, policy, scientific, resource, and stakeholder environments within which they would be operating. This paper proposes such a framework of principles for evaluating the strengths and limitations of different applied disclosure avoidance systems, distinguishing those principles from the implementation questions that often complicate these types of discussions. Additionally, it is important to acknowledge that no approach to disclosure avoidance will be perfectly adaptable to every potential system requirement. Because the selection of some methodologies over others may constrain the resulting systems' efficiency and flexibility to adapt to particular statistical product specifications, unique data user needs, or specific disclosure risks, agency decision makers may approach these choices in a somewhat iterative fashion, adapting system design requirements, data product specifications, and implementation parameters as necessary to ensure the resulting quality of the statistical product.
