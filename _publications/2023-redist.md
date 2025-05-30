@@ -3,7 +3,6 @@ title: "Redistricting Data—A Primer and History"
 collection: publications
 category: technical
 permalink: /publication/2023-redist.md
-excerpt: ' '
 date: 2023-10-01
 venue: 'U.S. Census Bureau'
 paperurl: 'https://www2.census.gov/library/publications/2023/decennial/redistricting-primer-history.pdf'
