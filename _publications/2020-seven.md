@@ -2,7 +2,7 @@
 title: "Implementing Differential Privacy: Seven Lessons From the 2020 United States Census"
 collection: publications
 category: manuscripts
-permalink: /publication/2020-seven.md
+permalink: /publication/2020-seven
 excerpt: ' '
 date: 2020-04-30
 venue: 'Harvard Data Science Review'
