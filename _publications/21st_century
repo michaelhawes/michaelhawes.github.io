@@ -13,14 +13,4 @@ bibtexurl: '/files/21st_century.bib'
 citation: 'Abowd, J. M., & Hawes, M. B. (2024). 21st Century Statistical Disclosure Limitation: Motivations and Challenges. In Handbook of Sharing Confidential Data (pp. 24-36). Chapman and Hall/CRC.'
 ---
 
- 2. Abowd, J.M., and Hawes, M.B., in Drechsler, J., Kifer, D., Reiter, J., and Slavković, A. (Eds.). Handbook of Sharing Confidential Data: Differential Privacy, Secure
-Multiparty Computation, and Synthetic Data, CRC Press (2024).
 
-@incollection{abowd202421st,
-  title={21st Century Statistical Disclosure Limitation: Motivations and Challenges},
-  author={Abowd, John M and Hawes, Michael B},
-  booktitle={Handbook of Sharing Confidential Data},
-  pages={24--36},
-  year={2024},
-  publisher={Chapman and Hall/CRC}
-}
