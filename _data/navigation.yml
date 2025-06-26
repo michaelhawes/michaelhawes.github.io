@@ -15,7 +15,7 @@ main:
   #  url: /research/
 
   - title: "Talks"
-    url: http://github.com/michaelhawes-census/presentations/README.md
+    url: http://github.com/michaelhawes-census/presentations/blob/main/README.md
     
   - title: "CV"
     url: /files/HAWES_CV.pdf
