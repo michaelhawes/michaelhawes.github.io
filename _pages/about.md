@@ -23,5 +23,5 @@ Michael is a member of the Federal Committee on Statistical Methodology (FCSM) a
 
 **Interests**
 
-When I'm not working, I enjoy traveling, cooking, camping, and history. If you run into me 'in the wild' (at an amusement park, brewery hopping, or at the dog park with my rescue pup Shelby), be sure to say Hi! 
+When I'm not working, I enjoy traveling, cooking, camping, and history. If you happen to run into me 'in the wild' (perhaps at an amusement park, brewery hopping, or at the dog park with my rescue pup Shelby), be sure to say Hi! 
 
