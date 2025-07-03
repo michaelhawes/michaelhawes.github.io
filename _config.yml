@@ -22,7 +22,7 @@ repository               : "michaelhawes/michaelhawes.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot.jpg"
   name             : "Michael B. Hawes"
   pronouns         : # example: "she/her"  
   bio              : "Experienced senior leader, statistician, and privacy professional with expertise in federal privacy and confidentiality laws and statistical disclosure limitation (de-identification)."
