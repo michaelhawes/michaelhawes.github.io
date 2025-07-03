@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-**Welcome to my personal page!**
-
 I am a senior statistician with the U.S. Census Bureau working at the intersection of privacy, technology, data governance, and stakeholder communication and engagement.
 
 **Official Bio**
