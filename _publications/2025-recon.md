@@ -2,7 +2,7 @@
 title: "A Simulated Reconstruction and Reidentification Attack on the 2010 U.S. Census"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-recon.md
+permalink: /publication/2025-recon
 excerpt: ' '
 date: 2025-07-10
 venue: 'Harvard Data Science Review'
