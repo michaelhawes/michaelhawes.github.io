@@ -1,0 +1,6 @@
+@article{AbowdForthcoming,
+  author = {Abowd, J.M. and Adams, T. and Ashmead, R. and Darais, D. and Dey, S. and Garfinkel, S.L. and Goldschlag, N. and Hawes, M.B. and Kifer, D. and Leclerc, P. and Lew, E. and Moore, S. and Rodríguez, R. and Tadros, R.N. and Vilhuber, L.},
+  title = {A Simulated Reconstruction and Reidentification Attack on the 2010 U.S. Census},
+  journal = {Harvard Data Science Review},
+  year = {forthcoming}
+}
