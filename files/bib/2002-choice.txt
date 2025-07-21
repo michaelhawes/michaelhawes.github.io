@@ -1,6 +1,6 @@
 @article{gourevitch2002politics,
   title={The politics of choice among national production systems},
-  author={Gourevitch, Peter and Hawes, Michael},
+  author={Gourevitch, Peter and Hawes, Michael B},
   journal={L’Ann{\'e}e de la R{\'e}gulation},
   volume={6},
   pages={241--270},
