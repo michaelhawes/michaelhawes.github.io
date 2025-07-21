@@ -7,7 +7,7 @@ excerpt: ' '
 date: 2025-07-10
 venue: 'Harvard Data Science Review'
 paperurl: 'https://github.com/uscensusbureau/recon_replication/blob/main/manuscript/hdsr/Main Text (2025-07-11).pdf'
-bibtexurl: 'https://michaelhawes.github.io/files/bib/2025-recon.bib'
+bibtexurl: ''
 citation: 'Abowd, J.M., Adams, T., Ashmead, R., Darais, D., Dey, S., Garfinkel, S.L., Goldschlag, N., Hawes, M.B., Kifer, D., Leclerc, P., Lew, E., Moore, S., Rodríguez, R., Tadros, R.N., and Vilhuber, L. (forthcoming). A Simulated Reconstruction and Reidentification Attack on the 2010 U.S. Census. Harvard Data Science Review.'
 bibtexcitation: '@article{AbowdForthcoming,
   author = {Abowd, J.M. and Adams, T. and Ashmead, R. and Darais, D. and Dey, S. and Garfinkel, S.L. and Goldschlag, N. and Hawes, M.B. and Kifer, D. and Leclerc, P. and Lew, E. and Moore, S. and Rodríguez, R. and Tadros, R.N. and Vilhuber, L.},
