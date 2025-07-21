@@ -1,6 +1,12 @@
-@article{AbowdForthcoming,
-  author = {Abowd, John M and Adams, Tamara and Ashmead, Robert and Darais, David and Dey, Sourya and Garfinkel, Simson L and Goldschlag, Nathan and Hawes, Michael B and Kifer, Daniel and Leclerc, Philip and Lew, Ethan and Moore, Scott and Rodríguez, Rolando A and Tadros, Ramy N and Vilhuber, Lars},
-  title = {A Simulated Reconstruction and Reidentification Attack on the 2010 U.S. Census},
-  journal = {Harvard Data Science Review},
-  year = {forthcoming}
+@article{Abowd2025Simulated,
+	author = {Abowd, John M and Adams, Tamara and Ashmead, Robert and Darais, David and Dey, Sourya and Garfinkel, Simson L and Goldschlag, Nathan and Hawes, Michael B and Kifer, Daniel and Leclerc, Philip and Lew, Ethan and Moore, Scott and Rodríguez, Rolando A and Tadros, Ramy N and Vilhuber, Lars},
+	journal = {Harvard Data Science Review},
+	year = {2025},
+	month = {jul 21},
+	note = {https://hdsr.mitpress.mit.edu/pub/ntchx9im},
+	publisher = {The MIT Press},
+	title = {
+{A} {Simulated} {Reconstruction} and {Reidentification} {Attack} on the 2010 {U}.{S}. {Census}
+
+},
 }
