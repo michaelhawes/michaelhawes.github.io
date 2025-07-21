@@ -8,7 +8,7 @@ date: 2024-01-01
 venue: 'Handbook of Sharing Confidential Data: Differential Privacy, Secure
 Multiparty Computation, and Synthetic Data, Drechsler, J., Kifer, D., Reiter, J., and Slavković, A. (Eds.),  CRC Press'
 paperurl: 'https://doi.org/10.48550/arXiv.2303.00845'
-bibtexurl: 'https://michaelhawes.github.io/files/bib/21st_century.bib'
+bibtexurl: 'https://michaelhawes.github.io/files/bib/21st_century.txt'
 citation: 'Abowd, J. M., & Hawes, M. B. (2024). 21st Century Statistical Disclosure Limitation: Motivations and Challenges. In Handbook of Sharing Confidential Data (pp. 24-36). Chapman and Hall/CRC.'
 ---
 
