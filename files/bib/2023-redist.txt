@@ -1,5 +1,5 @@
 @article{Molfino2023,
-    author = {Molfino, Emily and Whitehorne, James and Hawes, Michael B. and Keller, Sallie A.},
+    author = {Molfino, Emily and Whitehorne, James and Hawes, Michael B and Keller, Sallie A},
     title = {Redistricting Data—A Primer and History},
     year = {2023},
     publisher = {U.S. Census Bureau},
