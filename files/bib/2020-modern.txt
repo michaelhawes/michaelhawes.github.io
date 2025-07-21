@@ -1,5 +1,5 @@
 @article{Abowd2020modernization,
-  author = {Abowd, John M. and Benedetto, Gary L. and Garfinkel, Simson L. and Dahl, Scot A. and Dajani, Aref N. and Graham, Matthew and Hawes, Michael B. and Karwa, Vishesh and Kifer, Daniel and Kim, Hang and Leclerc, Philip and Machanavajjhala, Ashwin and Reiter, Jerome P. and Rodriguez, Rolando and Schmutte, Ian M. and Sexton, William N. and Singer, Phyllis E. and Vilhuber, Lars},
+  author = {Abowd, John M and Benedetto, Gary L and Garfinkel, Simson L and Dahl, Scot A and Dajani, Aref N and Graham, Matthew and Hawes, Michael B and Karwa, Vishesh and Kifer, Daniel and Kim, Hang and Leclerc, Philip and Machanavajjhala, Ashwin and Reiter, Jerome P and Rodriguez, Rolando and Schmutte, Ian M and Sexton, William N and Singer, Phyllis E and Vilhuber, Lars},
   title = {{The Modernization of Statistical Disclosure Limitation at the U.S. Census Bureau}},
   year = {2020},
   series = {Working Paper CED-WP-2020-009},
