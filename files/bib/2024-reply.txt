@@ -1,6 +1,7 @@
-@article{
-doi:10.1073/pnas.2401501121,
-author = {Ron S. Jarmin  and John M. Abowd  and Robert Ashmead  and Ryan Cumings-Menon  and Nathan Goldschlag  and Michael Hawes  and Sallie Ann Keller  and Daniel Kifer  and Philip Leclerc  and Jerome P. Reiter  and Rolando A. Rodríguez  and Ian Schmutte  and Victoria A. Velkoff  and Pavel I. Zhuravlev },
+
+@article{jarmin2024reply,
+title={Reply to Muralidhar et al., Kenny et al., and Hotz et al.: The benefits of engagement with external research teams},
+author={Jarmin, Ron S and Abowd, John M and Ashmead, Robert and Cumings-Menon, Ryan and Goldschlag, Nathan and Hawes, Michael and Keller, Sallie Ann and Kifer, Daniel and Leclerc, Philip and Reiter, Jerome P and others},
 title = {Reply to Muralidhar et al., Kenny et al., and Hotz et al.: The benefits of engagement with external research teams},
 journal = {Proceedings of the National Academy of Sciences},
 volume = {121},
@@ -9,5 +10,6 @@ pages = {e2401501121},
 year = {2024},
 doi = {10.1073/pnas.2401501121},
 URL = {https://www.pnas.org/doi/abs/10.1073/pnas.2401501121},
-eprint = {https://www.pnas.org/doi/pdf/10.1073/pnas.2401501121}}
+eprint = {https://www.pnas.org/doi/pdf/10.1073/pnas.2401501121}
+}
 
