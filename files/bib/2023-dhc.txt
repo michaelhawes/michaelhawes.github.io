@@ -1,5 +1,5 @@
 @misc{spence2023DHC,
-   author = {Spence, Matthew and Hawes, Michael B.},
+   author = {Spence, Matthew and Hawes, Michael B},
    title = {{What to Expect: Disclosure Avoidance and the 2020 Census Demographic and Housing Characteristics File}},
    year = {2023},
    month = {May},
