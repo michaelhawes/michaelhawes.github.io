@@ -7,7 +7,7 @@ excerpt: ' '
 date: 2022-11-29
 venue: 'Annual Review of Statistics and its Application'
 paperurl: 'https://doi.org/10.1146/annurev-statistics-010422-034226'
-bibtexurl: 'https://michaelhawes.github.io/files/bib/2022-confid.bib'
+bibtexurl: 'https://michaelhawes.github.io/files/bib/2022-confid.txt'
 citation: 'Abowd, J. M., & Hawes, M. B. (2023). Confidentiality protection in the 2020 US Census of population and housing. Annual Review of Statistics and Its Application, 10(1), 119-144. https://doi.org/10.1146/annurev-statistics-010422-034226 '
 ---
 
