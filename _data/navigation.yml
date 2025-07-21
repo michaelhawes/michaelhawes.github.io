@@ -18,7 +18,7 @@ main:
     url: http://github.com/michaelhawes-census/presentations/blob/main/README.md
     
   - title: "CV"
-    url: /files/HAWES_CV.pdf
+    url: <a href="https://michaelhawes.github.io/files/HAWES_CV.pdf" target="_blank">
     
   # - title: "CV"
   #   url: /cv-json/
