@@ -1,5 +1,5 @@
 @article{Hawes2020Implementing,
-	author = {Hawes, Michael B.},
+	author = {Hawes, Michael B},
 	journal = {Harvard Data Science Review},
 	number = {2},
 	year = {2020},
