@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2026-statpurposes
 excerpt: ' '
 date: 2026-07-13
-venue: 'under review'
+venue: 'Preprint'
 paperurl: 'https://arxiv.org/pdf/2607.11778'
 bibtexurl: 'https://michaelhawes.github.io/files/bib/2026-statpurposes.txt'
 citation: 'Hawes, M. B., Eltinge, J. L., Marck, P. S., Neiman, D. C., & Keller, S. A. (2026). The evolution and interpretation of “statistical purposes” [Preprint]. arXiv. https://doi.org/10.48550/arXiv.2607.11778'
