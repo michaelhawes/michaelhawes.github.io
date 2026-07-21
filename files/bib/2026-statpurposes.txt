@@ -1,0 +1,11 @@
+@misc{hawes2026statisticalpurposes,
+  author        = {Hawes, Michael B. and Eltinge, John L. and Marck, Paul S. and Neiman, Danielle C. and Keller, Sallie Ann},
+  title         = {The Evolution and Interpretation of ``Statistical Purposes''},
+  year          = {2026},
+  month         = jul,
+  eprint        = {2607.11778},
+  archivePrefix = {arXiv},
+  primaryClass  = {stat.OT},
+  doi           = {10.48550/arXiv.2607.11778},
+  url           = {https://arxiv.org/abs/2607.11778}
+}
