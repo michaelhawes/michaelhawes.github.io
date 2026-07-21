@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2026-quality
 date: 2026-07-17
+excerpt: ' '
 venue: 'CHANCE'
 paperurl: 'https://doi.org/10.1080/09332480.2026.2673774'
 bibtexurl: 'https://michaelhawes.github.io/files/bib/2026-quality.txt'
