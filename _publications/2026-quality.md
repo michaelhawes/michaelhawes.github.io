@@ -3,7 +3,7 @@ title: "Enabling Innovation by Putting Statistical Products First"
 collection: publications
 category: manuscripts
 permalink: /publication/2026-quality
-date: 2026-07
+date: 2026-07-17
 venue: 'CHANCE'
 paperurl: 'https://doi.org/10.1080/09332480.2026.2673774'
 bibtexurl: 'https://michaelhawes.github.io/files/bib/2026-quality.txt'
