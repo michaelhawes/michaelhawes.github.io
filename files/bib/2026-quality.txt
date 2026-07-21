@@ -1,0 +1,11 @@
+@article{keller2026enabling,
+  author  = {Keller, Sallie and Becker-Medina, Erika and Dorius, Cassandra and Hawes, Michael and Jarmin, Ron},
+  title   = {Enabling Innovation by Putting Statistical Products First},
+  journal = {CHANCE},
+  year    = {2026},
+  volume  = {39},
+  number  = {2},
+  pages   = {12--23},
+  doi     = {10.1080/09332480.2026.2673774},
+  url     = {https://doi.org/10.1080/09332480.2026.2673774}
+}
