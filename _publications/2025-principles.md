@@ -3,7 +3,7 @@ title: "Toward a Principled Framework for Disclosure Avoidance"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-principles
-excerpt: 'Characteristics of an ideal, applied disclosure avoidance system.'
+excerpt: ' '
 date: 2025-08-20
 venue: 'Harvard Data Science Review'
 paperurl: 'https://doi.org/10.1162/99608f92.db29c137'
