@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2026-statpurposes
 date: 2026-07-13
+excerpt: ' '
 venue: 'Preprint'
 paperurl: 'https://arxiv.org/pdf/2607.11778'
 bibtexurl: 'https://michaelhawes.github.io/files/bib/2026-statpurposes.txt'
